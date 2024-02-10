@@ -14,7 +14,7 @@ CloudFit is an e-commerce platform designed to provide a seamless shopping exper
 - 🌐 **Cloud-based Deployment:** Our website is deployed on AWS S3 bucket, ensuring reliable access from anywhere, anytime.
 
 ## Deployment🏃
-![Cloud](https://drive.google.com/file/d/1YNA0N0oLIq7p-oRbdyNGo4VHEQJ2jGnv/view?usp=drive_link)
+![CloudFit Logo](https://raw.githubusercontent.com/your-username/your-repository/main/cloud.gif)
 
 The CloudFit website is deployed on AWS S3 bucket and is accessible via the following link:
 [CloudFit](https://anagha-website.s3.ap-south-1.amazonaws.com/website.html/index.html)
@@ -22,7 +22,8 @@ The CloudFit website is deployed on AWS S3 bucket and is accessible via the foll
 ## Technologies Used👩‍💻
 
 CloudFit is built using the following technologies:
-![image](https://github.com/anaghaaaaa9/CloudFit/assets/141913440/e683e8cb-73ad-4666-a814-dec6541f8470)
+
+<img src="https://github.com/anaghaaaaa9/CloudFit/assets/141913440/e683e8cb-73ad-4666-a814-dec6541f8470" alt="Technologies Used" width="200">
 
 - 🖥️ **HTML (Hypertext Markup Language):** Used for structuring web pages.
 - 🎨 **CSS (Cascading Style Sheets):** Employed for styling and layout of web pages.
