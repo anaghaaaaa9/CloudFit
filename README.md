@@ -36,7 +36,8 @@ To run the website locally, follow these steps:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/CloudFit.git
+    git clone https://github.com/anaghaaaaa9/CloudFit.git
+
     ```
 
 2. Navigate to the project directory:
